@@ -1,0 +1,16 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+# Environment variables (allow .env for examples)
+/workflows/.env*
+.env
+.env.local
+.env.*.local
+
+CLAUDE.md

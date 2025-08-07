@@ -1,0 +1,14 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+# SuperAgent dependencies
+gem "super_agent", path: "../super_agent"
+
+# Core dependency
+gem "ruby-openai", "~> 7.0"
+gem 'semantic_logger'
+gem 'rufus-scheduler'
+gem 'dotenv'
+# Standard library (no need to specify these)
+# tempfile, fileutils, open-uri, base64 are stdlib

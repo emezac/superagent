@@ -1,0 +1,45 @@
+SOFTWARE DEVELOPMENT SERVICE AGREEMENT
+
+This Software Development Service Agreement ("Agreement") is entered into as of July 15, 2023 ("Effective Date") by and between:
+
+ABC CORPORATION, a Delaware corporation with principal offices at 123 Tech Avenue, San Francisco, CA 94105 ("Service Provider");
+
+and
+
+XYZ ENTERPRISES, LLC, a California limited liability company with principal offices at 456 Business Boulevard, Los Angeles, CA 90210 ("Client").
+
+1. SCOPE OF WORK
+Service Provider agrees to develop a custom software solution for Client's inventory management system, including user interface design, database integration, and reporting capabilities.
+
+2. PROJECT TIMELINE
+The project shall be completed within 90 days from the Effective Date, with milestone deliverables at 30-day intervals.
+
+3. PAYMENT TERMS
+Total contract value: $50,000 USD.
+Payment schedule:
+- $25,000 upon contract execution
+- $25,000 upon final delivery and acceptance
+Payment terms: Net 30 days from invoice date
+
+4. TERMINATION
+Either party may terminate this Agreement upon thirty (30) days written notice. Client may terminate immediately for material breach.
+
+5. LIMITATION OF LIABILITY
+Service Provider's total liability shall not exceed the amount paid by Client under this Agreement. This limitation applies to all claims, whether in contract, tort, or otherwise.
+
+6. INTELLECTUAL PROPERTY
+All work product and deliverables shall become the exclusive property of Client upon full payment. Service Provider retains right to use general methodologies and tools.
+
+7. CONFIDENTIALITY
+Both parties agree to maintain confidentiality of proprietary information for a period of three (3) years from termination.
+
+8. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of the State of California.
+
+9. NON-DISPARAGEMENT
+Both parties agree not to make any disparaging statements about the other party during and after the term of this Agreement.
+
+10. FORCE MAJEURE
+Neither party shall be liable for delays caused by circumstances beyond their reasonable control.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
